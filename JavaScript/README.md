@@ -5,17 +5,17 @@
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
   - [X] Variables
-  - [ ] Comments
-  - [ ] Data types
-  - [ ] Operators
-  - [ ] Conditional statements
+  - [X] Comments
+  - [X] Data types
+  - [X] Operators
+  - [X] Conditional statements
   - [ ] Arrays
   - [ ] Functions
-  - [ ] Loops
+  - [X] Loops
   - [ ] Objects
   - [ ] DOM manipulation
   - [ ] Events
-  - [ ] Debugging
+  - [X] Debugging
   - [ ] Error handling
   - [ ] Execution contexts
   - [ ] Controlling program flow
