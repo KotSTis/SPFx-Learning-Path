@@ -4,7 +4,7 @@
 ## Concepts to Learn
 Feel free to mark as completed `- [x] Concept name` every concept you've already fully understand. To learn a new concept go to the resources section and read/practice about it. As soon as you have fully understood all the concepts on this chapter go to the next chapter.
 
-  - [ ] Variables
+  - [X] Variables
   - [ ] Comments
   - [ ] Data types
   - [ ] Operators
