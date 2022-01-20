@@ -10,7 +10,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [X] Operators
   - [X] Conditional statements
   - [ ] Arrays
-  - [ ] Functions
+  - [X] Functions
   - [X] Loops
   - [ ] Objects
   - [ ] DOM manipulation
@@ -23,7 +23,7 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [ ] Recursion
   - [ ] IIFE
   - [ ] Delegates
-  - [ ] Callbacks
+  - [X] Callbacks
   - [ ] Clousure
   - [ ] Binding
   - [ ] JSON
