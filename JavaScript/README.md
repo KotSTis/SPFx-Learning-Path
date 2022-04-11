@@ -9,10 +9,10 @@ Feel free to mark as completed `- [x] Concept name` every concept you've already
   - [X] Data types
   - [X] Operators
   - [X] Conditional statements
-  - [ ] Arrays
+  - [X] Arrays
   - [X] Functions
   - [X] Loops
-  - [ ] Objects
+  - [X] Objects
   - [ ] DOM manipulation
   - [ ] Events
   - [X] Debugging

@@ -127,3 +127,7 @@ let temp2 = {
 		arrow();
 	}
 };
+
+//Constructors are always capital first letter eg. User
+//optional chaining ?. eg user.address?.street in case street 
+//doesnt exist

@@ -42,5 +42,6 @@ describe("pow", function(){
 			assert.isNaN(pow(2, 1.5));
 		});
 	});
+  
 
 });
